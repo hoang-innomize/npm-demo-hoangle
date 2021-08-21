@@ -1,4 +1,6 @@
+const sayHello = require('./libs/say-hello');
+
 function helloWorld(name) {
-    return `hello: ${name} from npm-demo package!`
+    return sayHello(name);
 }
 module.exports = helloWorld;
