@@ -1,0 +1,17 @@
+{
+  "name": "npm-demo-hoangle",
+  "version": "1.0.0",
+  "description": "A demo for npm with standard-release",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/hoang-innomizetech/npm-demo-hoangle"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "author": "Hoang Le",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^17.4.5"
+  }
+}
